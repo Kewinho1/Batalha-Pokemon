@@ -3,6 +3,7 @@
 Perguntas para Reflexão
 
 Como o conceito de herança poderia ser aplicado no jogo da batalha?
+
 R:Poderíamos criar uma classe base chamada Entity que contém propriedades e métodos comuns a todas as entidades do jogo, como name, hp, e métodos como isFainted(). As classes Pokemon e Trainer (se houver) poderiam estender Entity, herdando essas propriedades e métodos, além de adicionar funcionalidades específicas.
 
 Quais são as vantagens de usar classes para representar Pokémon e golpes?
